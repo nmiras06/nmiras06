@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nmiras06
 - 👀 I’m interested in Doc as Code method documentation
 - 🌱 I’m currently learning ...GIT HUB
-- 💞️ I’m looking to collaborate on ...API docs 
 - 📫 How to reach me ...niranjan.mirasdar@kyndryl.com
 
 <!---
